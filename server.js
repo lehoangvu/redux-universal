@@ -5,4 +5,4 @@ app.use(
     express.static(__dirname) //where your static content is located in your filesystem
 );
 
-app.listen(3000); //the port you want to use
+app.listen(80); //the port you want to use
